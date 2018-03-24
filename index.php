@@ -149,7 +149,7 @@ font-family: 'Michroma';font-size: 22px;
 
 
     <p id="demo" style="font-size:20px"></p>
-  	  <a class="btn btn-large btn-blue"  href="alacrity.html">Explore</a>
+  	  <a class="btn btn-large btn-blue"  href="Alacrity.php">Explore</a>
   </div>
 </div><!--container -->
   <div class="bottomleft">
